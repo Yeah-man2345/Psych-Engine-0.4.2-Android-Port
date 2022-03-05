@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spongebob.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="5" y="5" width="993" height="619" frameX="0" frameY="-15" frameWidth="989" frameHeight="624"/>
+	
+	<SubTexture name="idle0000" x="5" y="634" width="912" height="703" frameX="0" frameY="-27" frameWidth="912" frameHeight="711"/>
+	
+	<SubTexture name="left0000" x="1008" y="5" width="897" height="689"/>
+	
+	<SubTexture name="right0000" x="927" y="704" width="948" height="710"/>
+	
+	<SubTexture name="up0000" x="5" y="1424" width="912" height="708"/>
+	
+</TextureAtlas>
